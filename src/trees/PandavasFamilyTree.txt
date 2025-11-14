@@ -1,0 +1,10 @@
+Partha:Pandu,Vichitravirya
+Pandu:Yudhishthira,Bhima,Arjuna,Nakula,Sahadeva
+Vichitravirya:Dhritarashtra,Pandu
+Dhritarashtra:Duryodhana,Dushasana,Dussala,Vikarna
+Yudhishthira:Prativindhya
+Bhima:Sutasoma,Sarvaga
+Arjuna:Abhimanyu,Iravan
+Nakula:Shatanika
+Sahadeva:Shrutasena
+Abhimanyu:Parikshit
